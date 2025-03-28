@@ -15,7 +15,6 @@ class AppContainer extends HTMLElement {
 
             <card-component
             destino="hola"></card-component>
-        
         `
     }
 }
